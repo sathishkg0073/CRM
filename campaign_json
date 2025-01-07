@@ -1,1 +1,77 @@
-Hi
+{
+    "status": "success",
+    "reason": "Masters List Details",
+    "campaign": [
+        {
+            "id": "1",
+            "name": "Email Marketing",
+            "created_date": "2024-12-12 06:13:55",
+            "updated_date": "2024-12-12 06:13:55",
+            "active": true
+        },
+        {
+            "id": "2",
+            "name": "Social Media",
+            "created_date": "2024-12-12 06:33:38",
+            "updated_date": "2024-12-12 06:33:38",
+            "active": true
+        },
+        {
+            "id": "3",
+            "name": "PPC",
+            "created_date": "2024-12-12 06:48:47",
+            "updated_date": "2025-01-02 05:04:31",
+            "active": false
+        },
+        {
+            "id": "4",
+            "name": "Direct Mail",
+            "created_date": "2024-12-12 06:53:19",
+            "updated_date": "2025-01-02 05:04:31",
+            "active": false
+        },
+        {
+            "id": "5",
+            "name": "Event",
+            "created_date": "2024-12-12 07:12:03",
+            "updated_date": "2024-12-12 07:12:03",
+            "active": true
+        },
+        {
+            "id": "6",
+            "name": "Spring Sale",
+            "created_date": "2024-12-12 07:13:22",
+            "updated_date": "2024-12-12 07:13:22",
+            "active": true
+        },
+        {
+            "id": "7",
+            "name": "New Year Promotions",
+            "created_date": "2024-12-12 07:13:35",
+            "updated_date": "2025-01-02 05:04:31",
+            "active": false
+        },
+        {
+            "id": "8",
+            "name": "Summer Clearance",
+            "created_date": "2024-12-12 07:13:48",
+            "updated_date": "2024-12-12 07:13:48",
+            "active": true
+        },
+        {
+            "id": "9",
+            "name": "Back to School Sale",
+            "created_date": "2024-12-12 07:13:54",
+            "updated_date": "2024-12-12 07:13:54",
+            "active": true
+        },
+        {
+            "id": "10",
+            "name": "Holiday Discount",
+            "created_date": "2024-12-12 07:13:59",
+            "updated_date": "2024-12-12 07:13:59",
+            "active": true
+        }
+    ],
+    "response_code": 200
+}
