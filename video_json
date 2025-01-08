@@ -5,7 +5,7 @@
       "title": "MST Videos",
       "details": [
         {
-          "id": 830784,
+          "id": 676701,
           "title": "Channel Partner",
           "category_Id": 0,
           "file_size": "173772",
@@ -42,7 +42,7 @@
           ]
         },
         {
-          "id": 676701,
+          "id": 676702,
           "title": "Digital Marketing",
           "category_Id": 0,
           "file_size": "173772",
@@ -79,7 +79,7 @@
           ]
         },
         {
-          "id": 663712,
+          "id": 676703,
           "title": "ERP Development",
           "category_Id": 0,
           "file_size": "173772",
@@ -116,81 +116,7 @@
           ]
         },
         {
-          "id": 676701,
-          "title": "Digital Marketing",
-          "category_Id": 0,
-          "file_size": "173772",
-          "desc": "Experience the power of digital marketing with our exciting new video! Discover how to attract more customers, boost your brand, and grow your business. From creative content to effective strategies, we share it all in a fun and engaging way. Don't miss out—watch now and transform your digital marketing game.",
-          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Digital-Marketing.mp4",
-          "thumbnail": "https://img.youtube.com/vi/hEwQAw3zcqg/sddefault.jpg",
-          "adVideos": [
-            {
-              "time": 10,
-              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
-            },
-            {
-              "time": 30,
-              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
-            },
-            {
-              "time": 50,
-              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
-            }
-          ],
-          "bannerAds": [
-            {
-              "time": 20,
-              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
-            },
-            {
-              "time": 120,
-              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
-            },
-            {
-              "time": 300,
-              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
-            }
-          ]
-        },
-        {
-          "id": 676701,
-          "title": "Digital Marketing",
-          "category_Id": 0,
-          "file_size": "173772",
-          "desc": "Experience the power of digital marketing with our exciting new video! Discover how to attract more customers, boost your brand, and grow your business. From creative content to effective strategies, we share it all in a fun and engaging way. Don't miss out—watch now and transform your digital marketing game.",
-          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Digital-Marketing.mp4",
-          "thumbnail": "https://img.youtube.com/vi/hEwQAw3zcqg/sddefault.jpg",
-          "adVideos": [
-            {
-              "time": 10,
-              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
-            },
-            {
-              "time": 30,
-              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
-            },
-            {
-              "time": 50,
-              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
-            }
-          ],
-          "bannerAds": [
-            {
-              "time": 20,
-              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
-            },
-            {
-              "time": 120,
-              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
-            },
-            {
-              "time": 300,
-              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
-            }
-          ]
-        },
-        {
-          "id": 830784,
+          "id": 676704,
           "title": "Channel Partner",
           "category_Id": 0,
           "file_size": "173772",
@@ -227,7 +153,7 @@
           ]
         },
         {
-          "id": 676701,
+          "id": 676705,
           "title": "Digital Marketing",
           "category_Id": 0,
           "file_size": "173772",
@@ -264,7 +190,81 @@
           ]
         },
         {
-          "id": 676701,
+          "id": 676706,
+          "title": "ERP Development",
+          "category_Id": 0,
+          "file_size": "173772",
+          "desc": "Learn the benefits of ERP integration in our video! See how it streamlines operations, saves time, and reduces costs. Enjoy real-time data, better decisions, and smooth workflows. Transform your business and stay ahead of the competition. Watch now to unlock the power of ERP integration and boost your success.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/ERP-SOFTWARE.mp4",
+          "thumbnail": "https://img.youtube.com/vi/BsvFhCK5rZM/sddefault.jpg",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 676707,
+          "title": "Channel Partner",
+          "category_Id": 0,
+          "file_size": "173772",
+          "desc": "Grow your business with channel partnering, powered by Mind Spark Technologies! Our smart solutions help you succeed, work well with partners, and stay ahead in the market. Enjoy smooth integration and strong support. Partner with us and watch your business reach new heights. Mind Spark Technologies - your trusted partner for success.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Channel-Partner.mp4",
+          "thumbnail": "https://www.mindsparktechnologies.com/wp-content/uploads/2021/04/about-mst-team.jpg",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 676708,
           "title": "Digital Marketing",
           "category_Id": 0,
           "file_size": "173772",
@@ -296,6 +296,154 @@
             },
             {
               "time": 300,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 676709,
+          "title": "ERP Development",
+          "category_Id": 0,
+          "file_size": "173772",
+          "desc": "Learn the benefits of ERP integration in our video! See how it streamlines operations, saves time, and reduces costs. Enjoy real-time data, better decisions, and smooth workflows. Transform your business and stay ahead of the competition. Watch now to unlock the power of ERP integration and boost your success.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/ERP-SOFTWARE.mp4",
+          "thumbnail": "https://img.youtube.com/vi/BsvFhCK5rZM/sddefault.jpg",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 676710,
+          "title": "Channel Partner",
+          "category_Id": 0,
+          "file_size": "173772",
+          "desc": "Grow your business with channel partnering, powered by Mind Spark Technologies! Our smart solutions help you succeed, work well with partners, and stay ahead in the market. Enjoy smooth integration and strong support. Partner with us and watch your business reach new heights. Mind Spark Technologies - your trusted partner for success.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Channel-Partner.mp4",
+          "thumbnail": "https://www.mindsparktechnologies.com/wp-content/uploads/2021/04/about-mst-team.jpg",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 676711,
+          "title": "Digital Marketing",
+          "category_Id": 0,
+          "file_size": "173772",
+          "desc": "Experience the power of digital marketing with our exciting new video! Discover how to attract more customers, boost your brand, and grow your business. From creative content to effective strategies, we share it all in a fun and engaging way. Don't miss out—watch now and transform your digital marketing game.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Digital-Marketing.mp4",
+          "thumbnail": "https://img.youtube.com/vi/hEwQAw3zcqg/sddefault.jpg",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 300,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 676712,
+          "title": "ERP Development",
+          "category_Id": 0,
+          "file_size": "173772",
+          "desc": "Learn the benefits of ERP integration in our video! See how it streamlines operations, saves time, and reduces costs. Enjoy real-time data, better decisions, and smooth workflows. Transform your business and stay ahead of the competition. Watch now to unlock the power of ERP integration and boost your success.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/ERP-SOFTWARE.mp4",
+          "thumbnail": "https://img.youtube.com/vi/BsvFhCK5rZM/sddefault.jpg",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
               "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
             }
           ]
@@ -307,7 +455,7 @@
       "title": "Technologies Videos",
       "details": [
         {
-          "id": 830785,
+          "id": 776701,
           "title": "Channel Partner",
           "category_Id": 1,
           "file_size": "173772",
@@ -344,7 +492,7 @@
           ]
         },
         {
-          "id": 676702,
+          "id": 776702,
           "title": "Digital Marketing",
           "category_Id": 1,
           "file_size": "173772",
@@ -381,7 +529,7 @@
           ]
         },
         {
-          "id": 830785,
+          "id": 776703,
           "title": "Channel Partner",
           "category_Id": 1,
           "file_size": "173772",
@@ -418,7 +566,7 @@
           ]
         },
         {
-          "id": 676702,
+          "id": 776704,
           "title": "Digital Marketing",
           "category_Id": 1,
           "file_size": "173772",
@@ -455,7 +603,7 @@
           ]
         },
         {
-          "id": 830785,
+          "id": 776705,
           "title": "Channel Partner",
           "category_Id": 1,
           "file_size": "173772",
@@ -492,7 +640,7 @@
           ]
         },
         {
-          "id": 676702,
+          "id": 77676,
           "title": "Digital Marketing",
           "category_Id": 1,
           "file_size": "173772",
@@ -529,7 +677,44 @@
           ]
         },
         {
-          "id": 830785,
+          "id": 776707,
+          "title": "ERP Development",
+          "category_Id": 1,
+          "file_size": "173772",
+          "desc": "Learn the benefits of ERP integration in our video! See how it streamlines operations, saves time, and reduces costs. Enjoy real-time data, better decisions, and smooth workflows. Transform your business and stay ahead of the competition. Watch now to unlock the power of ERP integration and boost your success.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/ERP-SOFTWARE.mp4",
+          "thumbnail": "https://img.youtube.com/vi/BsvFhCK5rZM/sddefault.jpg",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 776708,
           "title": "Channel Partner",
           "category_Id": 1,
           "file_size": "173772",
@@ -566,7 +751,7 @@
           ]
         },
         {
-          "id": 676702,
+          "id": 776709,
           "title": "Digital Marketing",
           "category_Id": 1,
           "file_size": "173772",
@@ -603,7 +788,44 @@
           ]
         },
         {
-          "id": 830785,
+          "id": 776710,
+          "title": "ERP Development",
+          "category_Id": 1,
+          "file_size": "173772",
+          "desc": "Learn the benefits of ERP integration in our video! See how it streamlines operations, saves time, and reduces costs. Enjoy real-time data, better decisions, and smooth workflows. Transform your business and stay ahead of the competition. Watch now to unlock the power of ERP integration and boost your success.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/ERP-SOFTWARE.mp4",
+          "thumbnail": "https://img.youtube.com/vi/BsvFhCK5rZM/sddefault.jpg",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 776711,
           "title": "Channel Partner",
           "category_Id": 1,
           "file_size": "173772",
@@ -640,7 +862,7 @@
           ]
         },
         {
-          "id": 676702,
+          "id": 776712,
           "title": "Digital Marketing",
           "category_Id": 1,
           "file_size": "173772",
@@ -677,7 +899,7 @@
           ]
         },
         {
-          "id": 663713,
+          "id": 776713,
           "title": "ERP Development",
           "category_Id": 1,
           "file_size": "173772",
